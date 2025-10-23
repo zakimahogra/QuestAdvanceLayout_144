@@ -32,3 +32,9 @@ fun AktivitasPertama(modifier: Modifier = Modifier) {
             .fillMaxSize(),
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
+        // Judul
+        Text(
+            text = stringResource(R.string.prodi),
+            fontSize = 35.sp,
+            fontWeight = FontWeight.Bold
+        )
