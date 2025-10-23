@@ -38,3 +38,9 @@ fun AktivitasPertama(modifier: Modifier = Modifier) {
             fontSize = 35.sp,
             fontWeight = FontWeight.Bold
         )
+
+        // Subjudul
+        Text(
+            text = stringResource(id = R.string.univ),
+            fontSize = 20.sp
+        )
