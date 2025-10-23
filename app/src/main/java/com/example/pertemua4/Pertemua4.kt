@@ -46,3 +46,15 @@ fun AktivitasPertama(modifier: Modifier = Modifier) {
         )
 
         Spacer(modifier = Modifier.height(25.dp))
+
+        // Kartu informasi
+        Card(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(12.dp),
+            colors = CardDefaults.cardColors(
+                containerColor = Color.DarkGray
+            )
+        ) {
+
+}
