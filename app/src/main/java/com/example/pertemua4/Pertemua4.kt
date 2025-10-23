@@ -89,3 +89,8 @@ fun AktivitasPertama(modifier: Modifier = Modifier) {
                 }
             }
         }
+
+        // Teks bawah
+        Box(
+            modifier = Modifier.fillMaxSize()
+        ) {
