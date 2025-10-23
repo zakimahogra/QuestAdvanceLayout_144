@@ -26,3 +26,4 @@ import androidx.compose.foundation.layout.Box
 
 @Composable
 fun AktivitasPertama(modifier: Modifier = Modifier) {
+    Column(
