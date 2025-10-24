@@ -121,6 +121,11 @@ fun AktivitasPertama(modifier: Modifier = Modifier) {
                         color = Color.White,
                         modifier = Modifier.padding(top = 25.dp)
                     )
+                    Text(
+                        text = stringResource(id = R.string.nim2),
+                        fontSize = 20.sp,
+                        color = Color.Yellow,
+                        modifier = Modifier.padding(top = 10.dp)
 
 
         // Teks bawah
