@@ -103,6 +103,13 @@ fun AktivitasPertama(modifier: Modifier = Modifier) {
             ) {
                 val gambar = painterResource(id = R.drawable.univ)
 
+                Image(
+                    painter = gambar,
+                    contentDescription = null,
+                    modifier = Modifier
+                        .size(100.dp)
+                        .padding(5.dp)
+                )
 
 
         // Teks bawah
