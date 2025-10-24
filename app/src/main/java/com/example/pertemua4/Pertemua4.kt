@@ -143,6 +143,10 @@ fun AktivitasPertama(modifier: Modifier = Modifier) {
                 containerColor = Color.Red
             )
         ) {
+            Row(
+                verticalAlignment = Alignment.CenterVertically,
+                modifier = Modifier.padding(8.dp)
+            ) {
 
 
         // Teks bawah
