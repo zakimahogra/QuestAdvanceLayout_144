@@ -89,6 +89,11 @@ fun AktivitasPertama(modifier: Modifier = Modifier) {
                 }
             }
         }
+        Card(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(12.dp),
+
 
         // Teks bawah
         Box(

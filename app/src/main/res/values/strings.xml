@@ -4,5 +4,15 @@
     <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
     <string name="nama">Zaki Mahogra</string>
     <string name="alamat">Bantul, Jogja</string>
+
+
+    <string name="nama2">Raehan Arjun</string>
+    <string name="nim2">20230140120</string>
+    <string name="alamat2">Yogyakarta</string>
+
+    <string name="nama3">Rinaldi</string>
+    <string name="nim3">20230140144</string>
+    <string name="alamat3">Bantul</string>
+
     <string name="copy">copyright, 2025</string>
 </resources>
